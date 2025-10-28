@@ -1,0 +1,48 @@
+# 依赖
+node_modules/
+/lib/
+
+# 构建输出
+/build/
+/artifacts/
+/cache/
+/typechain/
+/coverage/
+/out/
+
+# 环境变量
+.env
+.env.local
+.env.production
+
+# 日志
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# 操作系统
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 部署相关
+/deployments
+/broadcast/
+
+# 测试网络数据
+/testnet/
+
+# 密钥文件（绝对不要提交！）
+*.pem
+*.key
+*.keystore
+
+# 临时文件
+*.tmp
+*.temp
