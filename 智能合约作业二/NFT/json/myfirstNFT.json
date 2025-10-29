@@ -1,0 +1,19 @@
+{
+  "name": "我的第一个 NFT",
+  "description": "这是一个在以太坊测试网上发行的演示 NFT",
+  "image": "https://chocolate-abundant-quail-746.mypinata.cloud/ipfs/bafkreibprhijzgwvfrhn3us3iieww27clfdwek7nny326q7v4guwi4fdka",
+  "attributes": [
+    {
+      "trait_type": "创作者",
+      "value": "xiaoding"
+    },
+    {
+      "trait_type": "稀有度",
+      "value": "普通"
+    },
+    {
+      "trait_type": "发行日期",
+      "value": "2025"
+    }
+  ]
+}
