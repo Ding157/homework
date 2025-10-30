@@ -1,0 +1,29 @@
+{
+  "_format": "hh-sol-artifact-1",
+  "contractName": "AuctionTemplate",
+  "sourceName": "contracts/factory/AuctionFactory.sol",
+  "abi": [
+    {
+      "inputs": [],
+      "stateMutability": "nonpayable",
+      "type": "constructor"
+    },
+    {
+      "inputs": [
+        {
+          "internalType": "address",
+          "name": "priceOracle",
+          "type": "address"
+        }
+      ],
+      "name": "initialize",
+      "outputs": [],
+      "stateMutability": "nonpayable",
+      "type": "function"
+    }
+  ],
+  "bytecode": "0x6080604052348015600f57600080fd5b5060a18061001e6000396000f3fe6080604052348015600f57600080fd5b506004361060285760003560e01c8063c4d66de814602d575b600080fd5b603b6038366004603d565b50565b005b600060208284031215604e57600080fd5b81356001600160a01b0381168114606457600080fd5b939250505056fea2646970667358221220663d1b30ab82eea66fdc782e5406db40c65f033cba34d224913f62843bf520ac64736f6c63430008140033",
+  "deployedBytecode": "0x6080604052348015600f57600080fd5b506004361060285760003560e01c8063c4d66de814602d575b600080fd5b603b6038366004603d565b50565b005b600060208284031215604e57600080fd5b81356001600160a01b0381168114606457600080fd5b939250505056fea2646970667358221220663d1b30ab82eea66fdc782e5406db40c65f033cba34d224913f62843bf520ac64736f6c63430008140033",
+  "linkReferences": {},
+  "deployedLinkReferences": {}
+}
